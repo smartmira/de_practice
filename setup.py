@@ -1,3 +1,4 @@
+#this basically creates the package were working on every package we install on requirements.txt gets passed into our setup
 from setuptools import find_packages,setup
 from typing import List
 
